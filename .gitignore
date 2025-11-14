@@ -1,0 +1,15 @@
+# Entorno virtual de Python
+.venv/
+venv/
+*.venv
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de entorno
+# (¡NUNCA subas tus contraseñas!)
+.env
+
+# Archivos del editor (ej. VS Code)
+.vscode/
